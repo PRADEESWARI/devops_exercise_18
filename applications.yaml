@@ -8,7 +8,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/PRADEESWARI/devops_tasks.git
+    repoURL: https://github.com/PRADEESWARI/devops_exercise_18.git
     targetRevision: main
     path: gitops/prod
 
